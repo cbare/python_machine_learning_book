@@ -30,8 +30,11 @@ The book's repo can be found here: [https://github.com/rasbt/python-machine-lear
 
 
 ## 4. Building Good Training Sets – Data Pre-Processing
-[preprocessing data ipynb](notebooks/ch04-preprocessing-data.ipynb)
-[wine data set ipynb](notebooks/ch04-wine.ipynb)
+* [preprocessing data ipynb](notebooks/ch04-preprocessing-data.ipynb)
+* [wine data set ipynb](notebooks/ch04-wine.ipynb)
+
+
+### Other resources
 
 * [sklearn module on feature selection](http://scikit-learn.org/stable/modules/feature_selection.html)
 * [sequential feature algorithms](http://rasbt.github.io/mlxtend/user_guide/feature_selection/SequentialFeatureSelector/) from Sebastian Raschka's mlxtend library.
@@ -40,7 +43,12 @@ The book's repo can be found here: [https://github.com/rasbt/python-machine-lear
 [ipynb]
 
 ## 6. Learning Best Practices for Model Evaluation and Hyperparameter Optimization
-[ipynb]
+[ipynb](notebooks/ch06-breast-cancer-wisconsin.ipynb)
+
+
+### Other resources
+
+* [Model Evaluation, Model Selection, and Algorithm Selection in Machine Learning](https://arxiv.org/abs/1811.12808)
 
 ## 7. Combining Different Models for Ensemble Learning
 [ipynb]
